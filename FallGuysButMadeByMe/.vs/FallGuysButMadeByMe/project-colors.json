@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4848719e-04a1-af66-2acd-535391bb3cbb": {
+      "ProjectGuid": "4848719e-04a1-af66-2acd-535391bb3cbb",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "9e714848-a104-66af-2acd-535391bb3cbb": {
+      "ProjectGuid": "9e714848-a104-66af-2acd-535391bb3cbb",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "33e9c58f-5a4a-481d-3028-2714dc1b39d4": {
+      "ProjectGuid": "33e9c58f-5a4a-481d-3028-2714dc1b39d4",
+      "DisplayName": "Assembly-CSharp.Player",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
